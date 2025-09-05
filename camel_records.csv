@@ -1,0 +1,6 @@
+Date,Item,Quantity,Buying Price,Selling Price,Revenue,COGS,Profit,Payment Method,Debt,Transport,Workers,Slaughter,Other Expenses,Total Expenses
+2025-09-01,Camel Meat,15,500.0,580.0,8700.0,7500.0,750.0,Mpesa,0,400.0,0.0,0.0,50.0,450.0
+2025-09-02,Camel Meat,15,500.0,580.0,8700.0,7500.0,850.0,Mpesa,0,300.0,0.0,0.0,50.0,350.0
+2025-09-02,Camel Liver,6,166.0,250.0,1500.0,996.0,504.0,Mpesa,0,0.0,0.0,0.0,0.0,0.0
+2025-09-03,Camel Meat,14,500.0,580.0,8120.0,7000.0,770.0,Mpesa,0,300.0,0.0,0.0,50.0,350.0
+2025-09-04,Camel Meat,16,500.0,580.0,9280.0,8000.0,830.0,Mpesa,0,400.0,0.0,0.0,50.0,
